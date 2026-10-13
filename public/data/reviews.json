@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Arjun Menon", "car": "Aurora GT", "rating": 5, "text": "The team let me test drive for a full hour with no pressure. The price they quoted was the price I paid, with no hidden charges at delivery." },
+  { "id": 2, "name": "Priya Raman", "car": "Voltline E7", "rating": 5, "text": "I was nervous about switching to electric. They explained charging, range and running costs clearly, and even helped me install a home charger." },
+  { "id": 3, "name": "Karthik Subramanian", "car": "Crest Classic", "rating": 4, "text": "Finance approval came the next day and the EMI plan was easy to follow. Delivery was two days later than promised, but they kept me updated." },
+  { "id": 4, "name": "Divya Nair", "car": "Nomad RS", "rating": 5, "text": "My first service was handled with pickup and drop, and the car came back washed. Good communication from start to finish." },
+  { "id": 5, "name": "Rahul Verma", "car": "Ring Quattro", "rating": 5, "text": "I compared four showrooms. Apex was the only one that showed me the full on-road price up front and answered every question honestly." },
+  { "id": 6, "name": "Meena Krishnan", "car": "Mustang Heritage", "rating": 4, "text": "A great buying experience. The trade-in valuation for my old car was fair and the paperwork was done in one visit." }
+]

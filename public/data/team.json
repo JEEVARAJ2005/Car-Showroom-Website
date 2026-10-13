@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Suresh Kumar", "role": "Founder and General Manager", "bio": "Started Apex Motors in 2009 after 12 years in automotive sales. Still greets customers on the showroom floor." },
+  { "id": 2, "name": "Anitha Rajan", "role": "Head of Sales", "bio": "Helps buyers compare models and choose the right fuel type for how they drive. 15 years of experience." },
+  { "id": 3, "name": "Vignesh Balu", "role": "Finance Manager", "bio": "Works with six partner banks to find the lowest EMI and explains every fee before you sign." },
+  { "id": 4, "name": "Lakshmi Priya", "role": "Service Centre Lead", "bio": "Leads a team of certified technicians and keeps service costs transparent with fixed-price packs." }
+]
